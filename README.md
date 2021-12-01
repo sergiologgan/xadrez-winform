@@ -1,4 +1,4 @@
-# xadrez-winform
+# Xadrez
 
 1º vc precisa recompilar o projeto
 2º vc precisa mover a pasta "pecas" para a pasta "debug"
