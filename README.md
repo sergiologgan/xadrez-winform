@@ -4,4 +4,4 @@
 2º vc precisa mover a pasta "pecas" para a pasta "debug"
 3º iniciar
 
-O jogo ainda não tem engine, apenas indica as coordenadas de cada peca no tabuleiro.
+O jogo ainda não tem engine, apenas indica as coordenadas de cada peças no tabuleiro.
